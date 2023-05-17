@@ -1,0 +1,20 @@
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\bin\Debug\Happy Holidays.exe.config
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\bin\Debug\Happy Holidays.exe
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\bin\Debug\Happy Holidays.pdb
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\obj\Debug\Happy Holidays.csproj.AssemblyReference.cache
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\obj\Debug\Happy Holidays.csproj.SuggestedBindingRedirects.cache
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\obj\Debug\Happy_Holidays.Properties.Resources.resources
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\obj\Debug\Happy Holidays.csproj.GenerateResource.cache
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\obj\Debug\Happy Holidays.csproj.CoreCompileInputs.cache
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\obj\Debug\Happy Holidays.exe
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\obj\Debug\Happy Holidays.pdb
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\obj\Debug\Happy_Holidays.Home.resources
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\obj\Debug\Happy_Holidays.GestionarHotels.resources
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\obj\Debug\Happy_Holidays.GestionarActivitats.resources
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\obj\Debug\Happy_Holidays.GestionarCadenes.resources
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\obj\Debug\Happy_Holidays.ActivitatsHotel.resources
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\bin\Debug\EntityFramework.dll
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\bin\Debug\EntityFramework.xml
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\molin\Documentos\DAM\DAM2\M06\M06_REP_02 - Happy hollidays\Happy Holidays\Happy Holidays\obj\Debug\Happy Holidays.csproj.CopyComplete
